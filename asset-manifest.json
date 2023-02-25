@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Slider-React/static/css/main.44b66ef7.css",
+    "main.js": "/Slider-React/static/js/main.e96b823e.js",
+    "static/media/img1.jpg": "/Slider-React/static/media/img1.fb88aea78e5756d969bd.jpg",
+    "static/media/img2.jpg": "/Slider-React/static/media/img2.71993c8179cbdb2538c1.jpg",
+    "static/media/img3.jpg": "/Slider-React/static/media/img3.2a7d13f88c41065fdea5.jpg",
+    "static/media/img4.jpg": "/Slider-React/static/media/img4.b80c9e4cb51e97f07d22.jpg",
+    "index.html": "/Slider-React/index.html",
+    "static/media/chevron-right.svg": "/Slider-React/static/media/chevron-right.9c40598e9594db5c982c2fb952616cb9.svg",
+    "static/media/chevron-left.svg": "/Slider-React/static/media/chevron-left.541c1ae12a7b0e9183bfde7832d7f31f.svg",
+    "main.44b66ef7.css.map": "/Slider-React/static/css/main.44b66ef7.css.map",
+    "main.e96b823e.js.map": "/Slider-React/static/js/main.e96b823e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44b66ef7.css",
+    "static/js/main.e96b823e.js"
+  ]
+}
