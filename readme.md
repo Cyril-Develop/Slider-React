@@ -2,7 +2,7 @@
 
 ![screenshot homepage](/src/image/screenshot.png)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Cyril-Develop/Rock-Paper-Scissors-JS?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Cyril-Develop/Slider-React?style=for-the-badge)
 
 ## Tester le projet :
 
