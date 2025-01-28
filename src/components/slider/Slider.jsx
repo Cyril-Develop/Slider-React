@@ -1,10 +1,10 @@
 import './slider.css';
-import chevronLeft from '../../image/chevron-left.svg';
-import chevronRight from '../../image/chevron-right.svg';
-import image1 from '../../image/img1.jpg';
-import image2 from '../../image/img2.jpg';
-import image3 from '../../image/img3.jpg';
-import image4 from '../../image/img4.jpg';
+import chevronLeft from '/src/image/chevron-left.svg';
+import chevronRight from '/src/image/chevron-right.svg';
+import image1 from '/src/image/img1.jpg';
+import image2 from '/src/image/img2.jpg';
+import image3 from '/src/image/img3.jpg';
+import image4 from '/src/image/img4.jpg';
 import { useEffect, useState } from 'react';
 
 export default function Slider() {
